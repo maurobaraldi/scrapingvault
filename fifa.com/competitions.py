@@ -1,5 +1,5 @@
 from time import sleep
-from utils import fetch_json
+from utils import fetch_json_to_file
 
 start, end = 2000, 2026
 men, women = 1, 2
@@ -12,11 +12,13 @@ headers = {
 if __name__ == "__main__":
     for year in range(start, end + 1):
         sleep(1)
-        fetch_json(
+        fetch_json_to_file(
             f"https://inside.fifa.com/api/data-centre/matches/competitions?gender={men}&year={year}&language=en",
-            f"./men-competitions-{year}.json",
+            f"./data/fifa-men-competitions-{year}.json",
+            verify_ssl=False
         )
-        fetch_json(
+        fetch_json_to_file(
             f"https://inside.fifa.com/api/data-centre/matches/competitions?gender={women}&year={year}&language=en",
-            f"./women-competitions-{year}.json",
+            f"./data/fifa-women-competitions-{year}.json",
+            verify_ssl=False
         )
