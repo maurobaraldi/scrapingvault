@@ -1,0 +1,3040 @@
+[
+  {
+    "id": "20000",
+    "associationId": "AFG",
+    "confederation": {
+      "id": "AFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/AFC",
+      "name": "AFC"
+    },
+    "name": "Afghanistan",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/AFG",
+    "gender": "male",
+    "slug": "afghanistan",
+    "status": "active"
+  },
+  {
+    "id": "43932",
+    "associationId": "ALB",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "Albania",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/ALB",
+    "gender": "male",
+    "slug": "albania",
+    "status": "active"
+  },
+  {
+    "id": "43843",
+    "associationId": "ALG",
+    "confederation": {
+      "id": "CAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CAF",
+      "name": "CAF"
+    },
+    "name": "Algeria",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/ALG",
+    "gender": "male",
+    "slug": "algeria",
+    "status": "active"
+  },
+  {
+    "id": "20012",
+    "associationId": "ASA",
+    "confederation": {
+      "id": "OFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/OFC",
+      "name": "OFC"
+    },
+    "name": "American Samoa",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/ASA",
+    "gender": "male",
+    "slug": "american-samoa",
+    "status": "active"
+  },
+  {
+    "id": "20001",
+    "associationId": "AND",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "Andorra",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/AND",
+    "gender": "male",
+    "slug": "andorra",
+    "status": "active"
+  },
+  {
+    "id": "43844",
+    "associationId": "ANG",
+    "confederation": {
+      "id": "CAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CAF",
+      "name": "CAF"
+    },
+    "name": "Angola",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/ANG",
+    "gender": "male",
+    "slug": "angola",
+    "status": "active"
+  },
+  {
+    "id": "20002",
+    "associationId": "AIA",
+    "confederation": {
+      "id": "CONCACAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CONCACAF",
+      "name": "CONCACAF"
+    },
+    "name": "Anguilla",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/AIA",
+    "gender": "male",
+    "slug": "anguilla",
+    "status": "active"
+  },
+  {
+    "id": "1882218",
+    "associationId": "ATG",
+    "confederation": {
+      "id": "CONCACAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CONCACAF",
+      "name": "CONCACAF"
+    },
+    "name": "Antigua and Barbuda",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/ATG",
+    "gender": "male",
+    "slug": "antigua-and-barbuda",
+    "status": "active"
+  },
+  {
+    "id": "43922",
+    "associationId": "ARG",
+    "confederation": {
+      "id": "CONMEBOL",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CONMEBOL",
+      "name": "CONMEBOL"
+    },
+    "name": "Argentina",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/ARG",
+    "gender": "male",
+    "slug": "argentina",
+    "status": "active"
+  },
+  {
+    "id": "43933",
+    "associationId": "ARM",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "Armenia",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/ARM",
+    "gender": "male",
+    "slug": "armenia",
+    "status": "active"
+  },
+  {
+    "id": "43894",
+    "associationId": "ARU",
+    "confederation": {
+      "id": "CONCACAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CONCACAF",
+      "name": "CONCACAF"
+    },
+    "name": "Aruba",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/ARU",
+    "gender": "male",
+    "slug": "aruba",
+    "status": "active"
+  },
+  {
+    "id": "43976",
+    "associationId": "AUS",
+    "confederation": {
+      "id": "AFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/AFC",
+      "name": "AFC"
+    },
+    "name": "Australia",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/AUS",
+    "gender": "male",
+    "slug": "australia",
+    "status": "active"
+  },
+  {
+    "id": "43934",
+    "associationId": "AUT",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "Austria",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/AUT",
+    "gender": "male",
+    "slug": "austria",
+    "status": "active"
+  },
+  {
+    "id": "43994",
+    "associationId": "AZE",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "Azerbaijan",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/AZE",
+    "gender": "male",
+    "slug": "azerbaijan",
+    "status": "active"
+  },
+  {
+    "id": "43895",
+    "associationId": "BAH",
+    "confederation": {
+      "id": "CONCACAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CONCACAF",
+      "name": "CONCACAF"
+    },
+    "name": "Bahamas",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/BAH",
+    "gender": "male",
+    "slug": "bahamas",
+    "status": "active"
+  },
+  {
+    "id": "43808",
+    "associationId": "BHR",
+    "confederation": {
+      "id": "AFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/AFC",
+      "name": "AFC"
+    },
+    "name": "Bahrain",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/BHR",
+    "gender": "male",
+    "slug": "bahrain",
+    "status": "active"
+  },
+  {
+    "id": "43809",
+    "associationId": "BAN",
+    "confederation": {
+      "id": "AFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/AFC",
+      "name": "AFC"
+    },
+    "name": "Bangladesh",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/BAN",
+    "gender": "male",
+    "slug": "bangladesh",
+    "status": "active"
+  },
+  {
+    "id": "43896",
+    "associationId": "BRB",
+    "confederation": {
+      "id": "CONCACAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CONCACAF",
+      "name": "CONCACAF"
+    },
+    "name": "Barbados",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/BRB",
+    "gender": "male",
+    "slug": "barbados",
+    "status": "active"
+  },
+  {
+    "id": "43937",
+    "associationId": "BLR",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "Belarus",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/BLR",
+    "gender": "male",
+    "slug": "belarus",
+    "status": "active"
+  },
+  {
+    "id": "43935",
+    "associationId": "BEL",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "Belgium",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/BEL",
+    "gender": "male",
+    "slug": "belgium",
+    "status": "active"
+  },
+  {
+    "id": "44011",
+    "associationId": "BLZ",
+    "confederation": {
+      "id": "CONCACAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CONCACAF",
+      "name": "CONCACAF"
+    },
+    "name": "Belize",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/BLZ",
+    "gender": "male",
+    "slug": "belize",
+    "status": "active"
+  },
+  {
+    "id": "43845",
+    "associationId": "BEN",
+    "confederation": {
+      "id": "CAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CAF",
+      "name": "CAF"
+    },
+    "name": "Benin",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/BEN",
+    "gender": "male",
+    "slug": "benin",
+    "status": "active"
+  },
+  {
+    "id": "43898",
+    "associationId": "BER",
+    "confederation": {
+      "id": "CONCACAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CONCACAF",
+      "name": "CONCACAF"
+    },
+    "name": "Bermuda",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/BER",
+    "gender": "male",
+    "slug": "bermuda",
+    "status": "active"
+  },
+  {
+    "id": "20003",
+    "associationId": "BHU",
+    "confederation": {
+      "id": "AFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/AFC",
+      "name": "AFC"
+    },
+    "name": "Bhutan",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/BHU",
+    "gender": "male",
+    "slug": "bhutan",
+    "status": "active"
+  },
+  {
+    "id": "43923",
+    "associationId": "BOL",
+    "confederation": {
+      "id": "CONMEBOL",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CONMEBOL",
+      "name": "CONMEBOL"
+    },
+    "name": "Bolivia",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/BOL",
+    "gender": "male",
+    "slug": "bolivia",
+    "status": "active"
+  },
+  {
+    "id": "44037",
+    "associationId": "BIH",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "Bosnia and Herzegovina",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/BIH",
+    "gender": "male",
+    "slug": "bosnia-and-herzegovina",
+    "status": "active"
+  },
+  {
+    "id": "43846",
+    "associationId": "BOT",
+    "confederation": {
+      "id": "CAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CAF",
+      "name": "CAF"
+    },
+    "name": "Botswana",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/BOT",
+    "gender": "male",
+    "slug": "botswana",
+    "status": "active"
+  },
+  {
+    "id": "43924",
+    "associationId": "BRA",
+    "confederation": {
+      "id": "CONMEBOL",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CONMEBOL",
+      "name": "CONMEBOL"
+    },
+    "name": "Brazil",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/BRA",
+    "gender": "male",
+    "slug": "brazil",
+    "status": "active"
+  },
+  {
+    "id": "20004",
+    "associationId": "VGB",
+    "confederation": {
+      "id": "CONCACAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CONCACAF",
+      "name": "CONCACAF"
+    },
+    "name": "British Virgin Islands",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/VGB",
+    "gender": "male",
+    "slug": "british-virgin-islands",
+    "status": "active"
+  },
+  {
+    "id": "43810",
+    "associationId": "BRU",
+    "confederation": {
+      "id": "AFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/AFC",
+      "name": "AFC"
+    },
+    "name": "Brunei",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/BRU",
+    "gender": "male",
+    "slug": "brunei",
+    "status": "active"
+  },
+  {
+    "id": "43936",
+    "associationId": "BUL",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "Bulgaria",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/BUL",
+    "gender": "male",
+    "slug": "bulgaria",
+    "status": "active"
+  },
+  {
+    "id": "43847",
+    "associationId": "BFA",
+    "confederation": {
+      "id": "CAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CAF",
+      "name": "CAF"
+    },
+    "name": "Burkina Faso",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/BFA",
+    "gender": "male",
+    "slug": "burkina-faso",
+    "status": "active"
+  },
+  {
+    "id": "43848",
+    "associationId": "BDI",
+    "confederation": {
+      "id": "CAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CAF",
+      "name": "CAF"
+    },
+    "name": "Burundi",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/BDI",
+    "gender": "male",
+    "slug": "burundi",
+    "status": "active"
+  },
+  {
+    "id": "43850",
+    "associationId": "CPV",
+    "confederation": {
+      "id": "CAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CAF",
+      "name": "CAF"
+    },
+    "name": "Cabo Verde",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/CPV",
+    "gender": "male",
+    "slug": "cabo-verde",
+    "status": "active"
+  },
+  {
+    "id": "44009",
+    "associationId": "CAM",
+    "confederation": {
+      "id": "AFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/AFC",
+      "name": "AFC"
+    },
+    "name": "Cambodia",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/CAM",
+    "gender": "male",
+    "slug": "cambodia",
+    "status": "active"
+  },
+  {
+    "id": "43849",
+    "associationId": "CMR",
+    "confederation": {
+      "id": "CAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CAF",
+      "name": "CAF"
+    },
+    "name": "Cameroon",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/CMR",
+    "gender": "male",
+    "slug": "cameroon",
+    "status": "active"
+  },
+  {
+    "id": "43899",
+    "associationId": "CAN",
+    "confederation": {
+      "id": "CONCACAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CONCACAF",
+      "name": "CONCACAF"
+    },
+    "name": "Canada",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/CAN",
+    "gender": "male",
+    "slug": "canada",
+    "status": "active"
+  },
+  {
+    "id": "43900",
+    "associationId": "CAY",
+    "confederation": {
+      "id": "CONCACAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CONCACAF",
+      "name": "CONCACAF"
+    },
+    "name": "Cayman Islands",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/CAY",
+    "gender": "male",
+    "slug": "cayman-islands",
+    "status": "active"
+  },
+  {
+    "id": "43851",
+    "associationId": "CTA",
+    "confederation": {
+      "id": "CAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CAF",
+      "name": "CAF"
+    },
+    "name": "Central African Republic",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/CTA",
+    "gender": "male",
+    "slug": "central-african-republic",
+    "status": "active"
+  },
+  {
+    "id": "43852",
+    "associationId": "CHA",
+    "confederation": {
+      "id": "CAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CAF",
+      "name": "CAF"
+    },
+    "name": "Chad",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/CHA",
+    "gender": "male",
+    "slug": "chad",
+    "status": "active"
+  },
+  {
+    "id": "43925",
+    "associationId": "CHI",
+    "confederation": {
+      "id": "CONMEBOL",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CONMEBOL",
+      "name": "CONMEBOL"
+    },
+    "name": "Chile",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/CHI",
+    "gender": "male",
+    "slug": "chile",
+    "status": "active"
+  },
+  {
+    "id": "43812",
+    "associationId": "CHN",
+    "confederation": {
+      "id": "AFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/AFC",
+      "name": "AFC"
+    },
+    "name": "China PR",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/CHN",
+    "gender": "male",
+    "slug": "china-pr",
+    "status": "active"
+  },
+  {
+    "id": "43813",
+    "associationId": "TPE",
+    "confederation": {
+      "id": "AFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/AFC",
+      "name": "AFC"
+    },
+    "name": "Chinese Taipei",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/TPE",
+    "gender": "male",
+    "slug": "chinese-taipei",
+    "status": "active"
+  },
+  {
+    "id": "43926",
+    "associationId": "COL",
+    "confederation": {
+      "id": "CONMEBOL",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CONMEBOL",
+      "name": "CONMEBOL"
+    },
+    "name": "Colombia",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/COL",
+    "gender": "male",
+    "slug": "colombia",
+    "status": "active"
+  },
+  {
+    "id": "1896913",
+    "associationId": "COM",
+    "confederation": {
+      "id": "CAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CAF",
+      "name": "CAF"
+    },
+    "name": "Comoros",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/COM",
+    "gender": "male",
+    "slug": "comoros",
+    "status": "active"
+  },
+  {
+    "id": "43853",
+    "associationId": "CGO",
+    "confederation": {
+      "id": "CAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CAF",
+      "name": "CAF"
+    },
+    "name": "Congo",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/CGO",
+    "gender": "male",
+    "slug": "congo",
+    "status": "active"
+  },
+  {
+    "id": "20014",
+    "associationId": "COD",
+    "confederation": {
+      "id": "CAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CAF",
+      "name": "CAF"
+    },
+    "name": "Congo DR",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/COD",
+    "gender": "male",
+    "slug": "congo-dr",
+    "status": "active"
+  },
+  {
+    "id": "44007",
+    "associationId": "COK",
+    "confederation": {
+      "id": "OFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/OFC",
+      "name": "OFC"
+    },
+    "name": "Cook Islands",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/COK",
+    "gender": "male",
+    "slug": "cook-islands",
+    "status": "active"
+  },
+  {
+    "id": "43901",
+    "associationId": "CRC",
+    "confederation": {
+      "id": "CONCACAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CONCACAF",
+      "name": "CONCACAF"
+    },
+    "name": "Costa Rica",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/CRC",
+    "gender": "male",
+    "slug": "costa-rica",
+    "status": "active"
+  },
+  {
+    "id": "43854",
+    "associationId": "CIV",
+    "confederation": {
+      "id": "CAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CAF",
+      "name": "CAF"
+    },
+    "name": "Côte d'Ivoire",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/CIV",
+    "gender": "male",
+    "slug": "côte-d'ivoire",
+    "status": "active"
+  },
+  {
+    "id": "43938",
+    "associationId": "CRO",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "Croatia",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/CRO",
+    "gender": "male",
+    "slug": "croatia",
+    "status": "active"
+  },
+  {
+    "id": "43902",
+    "associationId": "CUB",
+    "confederation": {
+      "id": "CONCACAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CONCACAF",
+      "name": "CONCACAF"
+    },
+    "name": "Cuba",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/CUB",
+    "gender": "male",
+    "slug": "cuba",
+    "status": "active"
+  },
+  {
+    "id": "1895293",
+    "associationId": "CUW",
+    "confederation": {
+      "id": "CONCACAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CONCACAF",
+      "name": "CONCACAF"
+    },
+    "name": "Curaçao",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/CUW",
+    "gender": "male",
+    "slug": "curaçao",
+    "status": "active"
+  },
+  {
+    "id": "43939",
+    "associationId": "CYP",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "Cyprus",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/CYP",
+    "gender": "male",
+    "slug": "cyprus",
+    "status": "active"
+  },
+  {
+    "id": "43995",
+    "associationId": "CZE",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "Czechia",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/CZE",
+    "gender": "male",
+    "slug": "czechia",
+    "status": "active"
+  },
+  {
+    "id": "43941",
+    "associationId": "DEN",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "Denmark",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/DEN",
+    "gender": "male",
+    "slug": "denmark",
+    "status": "active"
+  },
+  {
+    "id": "43996",
+    "associationId": "DJI",
+    "confederation": {
+      "id": "CAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CAF",
+      "name": "CAF"
+    },
+    "name": "Djibouti",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/DJI",
+    "gender": "male",
+    "slug": "djibouti",
+    "status": "active"
+  },
+  {
+    "id": "43997",
+    "associationId": "DMA",
+    "confederation": {
+      "id": "CONCACAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CONCACAF",
+      "name": "CONCACAF"
+    },
+    "name": "Dominica",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/DMA",
+    "gender": "male",
+    "slug": "dominica",
+    "status": "active"
+  },
+  {
+    "id": "43903",
+    "associationId": "DOM",
+    "confederation": {
+      "id": "CONCACAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CONCACAF",
+      "name": "CONCACAF"
+    },
+    "name": "Dominican Republic",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/DOM",
+    "gender": "male",
+    "slug": "dominican-republic",
+    "status": "active"
+  },
+  {
+    "id": "43821",
+    "associationId": "PRK",
+    "confederation": {
+      "id": "AFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/AFC",
+      "name": "AFC"
+    },
+    "name": "DPR Korea",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/PRK",
+    "gender": "male",
+    "slug": "dpr-korea",
+    "status": "active"
+  },
+  {
+    "id": "43927",
+    "associationId": "ECU",
+    "confederation": {
+      "id": "CONMEBOL",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CONMEBOL",
+      "name": "CONMEBOL"
+    },
+    "name": "Ecuador",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/ECU",
+    "gender": "male",
+    "slug": "ecuador",
+    "status": "active"
+  },
+  {
+    "id": "43855",
+    "associationId": "EGY",
+    "confederation": {
+      "id": "CAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CAF",
+      "name": "CAF"
+    },
+    "name": "Egypt",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/EGY",
+    "gender": "male",
+    "slug": "egypt",
+    "status": "active"
+  },
+  {
+    "id": "43904",
+    "associationId": "SLV",
+    "confederation": {
+      "id": "CONCACAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CONCACAF",
+      "name": "CONCACAF"
+    },
+    "name": "El Salvador",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/SLV",
+    "gender": "male",
+    "slug": "el-salvador",
+    "status": "active"
+  },
+  {
+    "id": "43942",
+    "associationId": "ENG",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "England",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/ENG",
+    "gender": "male",
+    "slug": "england",
+    "status": "active"
+  },
+  {
+    "id": "43856",
+    "associationId": "EQG",
+    "confederation": {
+      "id": "CAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CAF",
+      "name": "CAF"
+    },
+    "name": "Equatorial Guinea",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/EQG",
+    "gender": "male",
+    "slug": "equatorial-guinea",
+    "status": "active"
+  },
+  {
+    "id": "20006",
+    "associationId": "ERI",
+    "confederation": {
+      "id": "CAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CAF",
+      "name": "CAF"
+    },
+    "name": "Eritrea",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/ERI",
+    "gender": "male",
+    "slug": "eritrea",
+    "status": "active"
+  },
+  {
+    "id": "43943",
+    "associationId": "EST",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "Estonia",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/EST",
+    "gender": "male",
+    "slug": "estonia",
+    "status": "active"
+  },
+  {
+    "id": "43885",
+    "associationId": "SWZ",
+    "confederation": {
+      "id": "CAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CAF",
+      "name": "CAF"
+    },
+    "name": "Eswatini",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/SWZ",
+    "gender": "male",
+    "slug": "eswatini",
+    "status": "active"
+  },
+  {
+    "id": "43857",
+    "associationId": "ETH",
+    "confederation": {
+      "id": "CAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CAF",
+      "name": "CAF"
+    },
+    "name": "Ethiopia",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/ETH",
+    "gender": "male",
+    "slug": "ethiopia",
+    "status": "active"
+  },
+  {
+    "id": "43944",
+    "associationId": "FRO",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "Faroe Islands",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/FRO",
+    "gender": "male",
+    "slug": "faroe-islands",
+    "status": "active"
+  },
+  {
+    "id": "43977",
+    "associationId": "FIJ",
+    "confederation": {
+      "id": "OFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/OFC",
+      "name": "OFC"
+    },
+    "name": "Fiji",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/FIJ",
+    "gender": "male",
+    "slug": "fiji",
+    "status": "active"
+  },
+  {
+    "id": "43945",
+    "associationId": "FIN",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "Finland",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/FIN",
+    "gender": "male",
+    "slug": "finland",
+    "status": "active"
+  },
+  {
+    "id": "43946",
+    "associationId": "FRA",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "France",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/FRA",
+    "gender": "male",
+    "slug": "france",
+    "status": "active"
+  },
+  {
+    "id": "43858",
+    "associationId": "GAB",
+    "confederation": {
+      "id": "CAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CAF",
+      "name": "CAF"
+    },
+    "name": "Gabon",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/GAB",
+    "gender": "male",
+    "slug": "gabon",
+    "status": "active"
+  },
+  {
+    "id": "43947",
+    "associationId": "GEO",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "Georgia",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/GEO",
+    "gender": "male",
+    "slug": "georgia",
+    "status": "active"
+  },
+  {
+    "id": "44024",
+    "associationId": "GDR",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "German DR (historical)",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/GDR",
+    "gender": "male",
+    "slug": "german-dr",
+    "status": "inactive"
+  },
+  {
+    "id": "43948",
+    "associationId": "GER",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "Germany",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/GER",
+    "gender": "male",
+    "slug": "germany",
+    "status": "active"
+  },
+  {
+    "id": "43860",
+    "associationId": "GHA",
+    "confederation": {
+      "id": "CAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CAF",
+      "name": "CAF"
+    },
+    "name": "Ghana",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/GHA",
+    "gender": "male",
+    "slug": "ghana",
+    "status": "active"
+  },
+  {
+    "id": "1941613",
+    "associationId": "GIB",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "Gibraltar",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/GIB",
+    "gender": "male",
+    "slug": "gibraltar",
+    "status": "active"
+  },
+  {
+    "id": "1889945",
+    "associationId": "GBR",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "Great Britain (historical)",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/GBR",
+    "gender": "male",
+    "slug": "great-britain",
+    "status": "inactive"
+  },
+  {
+    "id": "43949",
+    "associationId": "GRE",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "Greece",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/GRE",
+    "gender": "male",
+    "slug": "greece",
+    "status": "active"
+  },
+  {
+    "id": "43905",
+    "associationId": "GRN",
+    "confederation": {
+      "id": "CONCACAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CONCACAF",
+      "name": "CONCACAF"
+    },
+    "name": "Grenada",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/GRN",
+    "gender": "male",
+    "slug": "grenada",
+    "status": "active"
+  },
+  {
+    "id": "20007",
+    "associationId": "GUM",
+    "confederation": {
+      "id": "AFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/AFC",
+      "name": "AFC"
+    },
+    "name": "Guam",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/GUM",
+    "gender": "male",
+    "slug": "guam",
+    "status": "active"
+  },
+  {
+    "id": "43906",
+    "associationId": "GUA",
+    "confederation": {
+      "id": "CONCACAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CONCACAF",
+      "name": "CONCACAF"
+    },
+    "name": "Guatemala",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/GUA",
+    "gender": "male",
+    "slug": "guatemala",
+    "status": "active"
+  },
+  {
+    "id": "43861",
+    "associationId": "GUI",
+    "confederation": {
+      "id": "CAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CAF",
+      "name": "CAF"
+    },
+    "name": "Guinea",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/GUI",
+    "gender": "male",
+    "slug": "guinea",
+    "status": "active"
+  },
+  {
+    "id": "43862",
+    "associationId": "GNB",
+    "confederation": {
+      "id": "CAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CAF",
+      "name": "CAF"
+    },
+    "name": "Guinea-Bissau",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/GNB",
+    "gender": "male",
+    "slug": "guinea-bissau",
+    "status": "active"
+  },
+  {
+    "id": "43907",
+    "associationId": "GUY",
+    "confederation": {
+      "id": "CONCACAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CONCACAF",
+      "name": "CONCACAF"
+    },
+    "name": "Guyana",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/GUY",
+    "gender": "male",
+    "slug": "guyana",
+    "status": "active"
+  },
+  {
+    "id": "43908",
+    "associationId": "HAI",
+    "confederation": {
+      "id": "CONCACAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CONCACAF",
+      "name": "CONCACAF"
+    },
+    "name": "Haiti",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/HAI",
+    "gender": "male",
+    "slug": "haiti",
+    "status": "active"
+  },
+  {
+    "id": "43909",
+    "associationId": "HON",
+    "confederation": {
+      "id": "CONCACAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CONCACAF",
+      "name": "CONCACAF"
+    },
+    "name": "Honduras",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/HON",
+    "gender": "male",
+    "slug": "honduras",
+    "status": "active"
+  },
+  {
+    "id": "43814",
+    "associationId": "HKG",
+    "confederation": {
+      "id": "AFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/AFC",
+      "name": "AFC"
+    },
+    "name": "Hong Kong",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/HKG",
+    "gender": "male",
+    "slug": "hong-kong",
+    "status": "active"
+  },
+  {
+    "id": "43950",
+    "associationId": "HUN",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "Hungary",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/HUN",
+    "gender": "male",
+    "slug": "hungary",
+    "status": "active"
+  },
+  {
+    "id": "43951",
+    "associationId": "ISL",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "Iceland",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/ISL",
+    "gender": "male",
+    "slug": "iceland",
+    "status": "active"
+  },
+  {
+    "id": "43815",
+    "associationId": "IND",
+    "confederation": {
+      "id": "AFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/AFC",
+      "name": "AFC"
+    },
+    "name": "India",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/IND",
+    "gender": "male",
+    "slug": "india",
+    "status": "active"
+  },
+  {
+    "id": "43816",
+    "associationId": "IDN",
+    "confederation": {
+      "id": "AFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/AFC",
+      "name": "AFC"
+    },
+    "name": "Indonesia",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/IDN",
+    "gender": "male",
+    "slug": "indonesia",
+    "status": "active"
+  },
+  {
+    "id": "43817",
+    "associationId": "IRN",
+    "confederation": {
+      "id": "AFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/AFC",
+      "name": "AFC"
+    },
+    "name": "IR Iran",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/IRN",
+    "gender": "male",
+    "slug": "ir-iran",
+    "status": "active"
+  },
+  {
+    "id": "43818",
+    "associationId": "IRQ",
+    "confederation": {
+      "id": "AFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/AFC",
+      "name": "AFC"
+    },
+    "name": "Iraq",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/IRQ",
+    "gender": "male",
+    "slug": "iraq",
+    "status": "active"
+  },
+  {
+    "id": "43984",
+    "associationId": "ISR",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "Israel",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/ISR",
+    "gender": "male",
+    "slug": "israel",
+    "status": "active"
+  },
+  {
+    "id": "43954",
+    "associationId": "ITA",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "Italy",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/ITA",
+    "gender": "male",
+    "slug": "italy",
+    "status": "active"
+  },
+  {
+    "id": "43910",
+    "associationId": "JAM",
+    "confederation": {
+      "id": "CONCACAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CONCACAF",
+      "name": "CONCACAF"
+    },
+    "name": "Jamaica",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/JAM",
+    "gender": "male",
+    "slug": "jamaica",
+    "status": "active"
+  },
+  {
+    "id": "43819",
+    "associationId": "JPN",
+    "confederation": {
+      "id": "AFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/AFC",
+      "name": "AFC"
+    },
+    "name": "Japan",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/JPN",
+    "gender": "male",
+    "slug": "japan",
+    "status": "active"
+  },
+  {
+    "id": "43820",
+    "associationId": "JOR",
+    "confederation": {
+      "id": "AFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/AFC",
+      "name": "AFC"
+    },
+    "name": "Jordan",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/JOR",
+    "gender": "male",
+    "slug": "jordan",
+    "status": "active"
+  },
+  {
+    "id": "44027",
+    "associationId": "KAZ",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "Kazakhstan",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/KAZ",
+    "gender": "male",
+    "slug": "kazakhstan",
+    "status": "active"
+  },
+  {
+    "id": "43863",
+    "associationId": "KEN",
+    "confederation": {
+      "id": "CAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CAF",
+      "name": "CAF"
+    },
+    "name": "Kenya",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/KEN",
+    "gender": "male",
+    "slug": "kenya",
+    "status": "active"
+  },
+  {
+    "id": "43822",
+    "associationId": "KOR",
+    "confederation": {
+      "id": "AFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/AFC",
+      "name": "AFC"
+    },
+    "name": "Korea Republic",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/KOR",
+    "gender": "male",
+    "slug": "korea-republic",
+    "status": "active"
+  },
+  {
+    "id": "1942535",
+    "associationId": "KOS",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "Kosovo",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/KOS",
+    "gender": "male",
+    "slug": "kosovo",
+    "status": "active"
+  },
+  {
+    "id": "43823",
+    "associationId": "KUW",
+    "confederation": {
+      "id": "AFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/AFC",
+      "name": "AFC"
+    },
+    "name": "Kuwait",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/KUW",
+    "gender": "male",
+    "slug": "kuwait",
+    "status": "active"
+  },
+  {
+    "id": "43999",
+    "associationId": "KGZ",
+    "confederation": {
+      "id": "AFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/AFC",
+      "name": "AFC"
+    },
+    "name": "Kyrgyz Republic",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/KGZ",
+    "gender": "male",
+    "slug": "kyrgyz-republic",
+    "status": "active"
+  },
+  {
+    "id": "43824",
+    "associationId": "LAO",
+    "confederation": {
+      "id": "AFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/AFC",
+      "name": "AFC"
+    },
+    "name": "Laos",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/LAO",
+    "gender": "male",
+    "slug": "laos",
+    "status": "active"
+  },
+  {
+    "id": "43955",
+    "associationId": "LVA",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "Latvia",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/LVA",
+    "gender": "male",
+    "slug": "latvia",
+    "status": "active"
+  },
+  {
+    "id": "43825",
+    "associationId": "LBN",
+    "confederation": {
+      "id": "AFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/AFC",
+      "name": "AFC"
+    },
+    "name": "Lebanon",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/LBN",
+    "gender": "male",
+    "slug": "lebanon",
+    "status": "active"
+  },
+  {
+    "id": "43864",
+    "associationId": "LES",
+    "confederation": {
+      "id": "CAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CAF",
+      "name": "CAF"
+    },
+    "name": "Lesotho",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/LES",
+    "gender": "male",
+    "slug": "lesotho",
+    "status": "active"
+  },
+  {
+    "id": "43865",
+    "associationId": "LBR",
+    "confederation": {
+      "id": "CAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CAF",
+      "name": "CAF"
+    },
+    "name": "Liberia",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/LBR",
+    "gender": "male",
+    "slug": "liberia",
+    "status": "active"
+  },
+  {
+    "id": "43866",
+    "associationId": "LBY",
+    "confederation": {
+      "id": "CAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CAF",
+      "name": "CAF"
+    },
+    "name": "Libya",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/LBY",
+    "gender": "male",
+    "slug": "libya",
+    "status": "active"
+  },
+  {
+    "id": "43956",
+    "associationId": "LIE",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "Liechtenstein",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/LIE",
+    "gender": "male",
+    "slug": "liechtenstein",
+    "status": "active"
+  },
+  {
+    "id": "43957",
+    "associationId": "LTU",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "Lithuania",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/LTU",
+    "gender": "male",
+    "slug": "lithuania",
+    "status": "active"
+  },
+  {
+    "id": "43958",
+    "associationId": "LUX",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "Luxembourg",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/LUX",
+    "gender": "male",
+    "slug": "luxembourg",
+    "status": "active"
+  },
+  {
+    "id": "43826",
+    "associationId": "MAC",
+    "confederation": {
+      "id": "AFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/AFC",
+      "name": "AFC"
+    },
+    "name": "Macau",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/MAC",
+    "gender": "male",
+    "slug": "macau",
+    "status": "active"
+  },
+  {
+    "id": "43867",
+    "associationId": "MAD",
+    "confederation": {
+      "id": "CAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CAF",
+      "name": "CAF"
+    },
+    "name": "Madagascar",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/MAD",
+    "gender": "male",
+    "slug": "madagascar",
+    "status": "active"
+  },
+  {
+    "id": "43868",
+    "associationId": "MWI",
+    "confederation": {
+      "id": "CAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CAF",
+      "name": "CAF"
+    },
+    "name": "Malawi",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/MWI",
+    "gender": "male",
+    "slug": "malawi",
+    "status": "active"
+  },
+  {
+    "id": "43827",
+    "associationId": "MAS",
+    "confederation": {
+      "id": "AFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/AFC",
+      "name": "AFC"
+    },
+    "name": "Malaysia",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/MAS",
+    "gender": "male",
+    "slug": "malaysia",
+    "status": "active"
+  },
+  {
+    "id": "43828",
+    "associationId": "MDV",
+    "confederation": {
+      "id": "AFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/AFC",
+      "name": "AFC"
+    },
+    "name": "Maldives",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/MDV",
+    "gender": "male",
+    "slug": "maldives",
+    "status": "active"
+  },
+  {
+    "id": "43869",
+    "associationId": "MLI",
+    "confederation": {
+      "id": "CAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CAF",
+      "name": "CAF"
+    },
+    "name": "Mali",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/MLI",
+    "gender": "male",
+    "slug": "mali",
+    "status": "active"
+  },
+  {
+    "id": "43959",
+    "associationId": "MLT",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "Malta",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/MLT",
+    "gender": "male",
+    "slug": "malta",
+    "status": "active"
+  },
+  {
+    "id": "43870",
+    "associationId": "MTN",
+    "confederation": {
+      "id": "CAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CAF",
+      "name": "CAF"
+    },
+    "name": "Mauritania",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/MTN",
+    "gender": "male",
+    "slug": "mauritania",
+    "status": "active"
+  },
+  {
+    "id": "43871",
+    "associationId": "MRI",
+    "confederation": {
+      "id": "CAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CAF",
+      "name": "CAF"
+    },
+    "name": "Mauritius",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/MRI",
+    "gender": "male",
+    "slug": "mauritius",
+    "status": "active"
+  },
+  {
+    "id": "43911",
+    "associationId": "MEX",
+    "confederation": {
+      "id": "CONCACAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CONCACAF",
+      "name": "CONCACAF"
+    },
+    "name": "Mexico",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/MEX",
+    "gender": "male",
+    "slug": "mexico",
+    "status": "active"
+  },
+  {
+    "id": "44036",
+    "associationId": "MDA",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "Moldova",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/MDA",
+    "gender": "male",
+    "slug": "moldova",
+    "status": "active"
+  },
+  {
+    "id": "20008",
+    "associationId": "MNG",
+    "confederation": {
+      "id": "AFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/AFC",
+      "name": "AFC"
+    },
+    "name": "Mongolia",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/MNG",
+    "gender": "male",
+    "slug": "mongolia",
+    "status": "active"
+  },
+  {
+    "id": "1903356",
+    "associationId": "MNE",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "Montenegro",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/MNE",
+    "gender": "male",
+    "slug": "montenegro",
+    "status": "active"
+  },
+  {
+    "id": "20009",
+    "associationId": "MSR",
+    "confederation": {
+      "id": "CONCACAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CONCACAF",
+      "name": "CONCACAF"
+    },
+    "name": "Montserrat",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/MSR",
+    "gender": "male",
+    "slug": "montserrat",
+    "status": "active"
+  },
+  {
+    "id": "43872",
+    "associationId": "MAR",
+    "confederation": {
+      "id": "CAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CAF",
+      "name": "CAF"
+    },
+    "name": "Morocco",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/MAR",
+    "gender": "male",
+    "slug": "morocco",
+    "status": "active"
+  },
+  {
+    "id": "43873",
+    "associationId": "MOZ",
+    "confederation": {
+      "id": "CAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CAF",
+      "name": "CAF"
+    },
+    "name": "Mozambique",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/MOZ",
+    "gender": "male",
+    "slug": "mozambique",
+    "status": "active"
+  },
+  {
+    "id": "43829",
+    "associationId": "MYA",
+    "confederation": {
+      "id": "AFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/AFC",
+      "name": "AFC"
+    },
+    "name": "Myanmar",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/MYA",
+    "gender": "male",
+    "slug": "myanmar",
+    "status": "active"
+  },
+  {
+    "id": "43874",
+    "associationId": "NAM",
+    "confederation": {
+      "id": "CAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CAF",
+      "name": "CAF"
+    },
+    "name": "Namibia",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/NAM",
+    "gender": "male",
+    "slug": "namibia",
+    "status": "active"
+  },
+  {
+    "id": "43830",
+    "associationId": "NEP",
+    "confederation": {
+      "id": "AFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/AFC",
+      "name": "AFC"
+    },
+    "name": "Nepal",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/NEP",
+    "gender": "male",
+    "slug": "nepal",
+    "status": "active"
+  },
+  {
+    "id": "43960",
+    "associationId": "NED",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "Netherlands",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/NED",
+    "gender": "male",
+    "slug": "netherlands",
+    "status": "active"
+  },
+  {
+    "id": "20010",
+    "associationId": "NCL",
+    "confederation": {
+      "id": "OFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/OFC",
+      "name": "OFC"
+    },
+    "name": "New Caledonia",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/NCL",
+    "gender": "male",
+    "slug": "new-caledonia",
+    "status": "active"
+  },
+  {
+    "id": "43978",
+    "associationId": "NZL",
+    "confederation": {
+      "id": "OFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/OFC",
+      "name": "OFC"
+    },
+    "name": "New Zealand",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/NZL",
+    "gender": "male",
+    "slug": "new-zealand",
+    "status": "active"
+  },
+  {
+    "id": "43913",
+    "associationId": "NCA",
+    "confederation": {
+      "id": "CONCACAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CONCACAF",
+      "name": "CONCACAF"
+    },
+    "name": "Nicaragua",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/NCA",
+    "gender": "male",
+    "slug": "nicaragua",
+    "status": "active"
+  },
+  {
+    "id": "43875",
+    "associationId": "NIG",
+    "confederation": {
+      "id": "CAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CAF",
+      "name": "CAF"
+    },
+    "name": "Niger",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/NIG",
+    "gender": "male",
+    "slug": "niger",
+    "status": "active"
+  },
+  {
+    "id": "43876",
+    "associationId": "NGA",
+    "confederation": {
+      "id": "CAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CAF",
+      "name": "CAF"
+    },
+    "name": "Nigeria",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/NGA",
+    "gender": "male",
+    "slug": "nigeria",
+    "status": "active"
+  },
+  {
+    "id": "44000",
+    "associationId": "MKD",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "North Macedonia",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/MKD",
+    "gender": "male",
+    "slug": "north-macedonia",
+    "status": "active"
+  },
+  {
+    "id": "43952",
+    "associationId": "NIR",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "Northern Ireland",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/NIR",
+    "gender": "male",
+    "slug": "northern-ireland",
+    "status": "active"
+  },
+  {
+    "id": "43961",
+    "associationId": "NOR",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "Norway",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/NOR",
+    "gender": "male",
+    "slug": "norway",
+    "status": "active"
+  },
+  {
+    "id": "43831",
+    "associationId": "OMA",
+    "confederation": {
+      "id": "AFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/AFC",
+      "name": "AFC"
+    },
+    "name": "Oman",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/OMA",
+    "gender": "male",
+    "slug": "oman",
+    "status": "active"
+  },
+  {
+    "id": "43832",
+    "associationId": "PAK",
+    "confederation": {
+      "id": "AFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/AFC",
+      "name": "AFC"
+    },
+    "name": "Pakistan",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/PAK",
+    "gender": "male",
+    "slug": "pakistan",
+    "status": "active"
+  },
+  {
+    "id": "43989",
+    "associationId": "PLE",
+    "confederation": {
+      "id": "AFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/AFC",
+      "name": "AFC"
+    },
+    "name": "Palestine",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/PLE",
+    "gender": "male",
+    "slug": "palestine",
+    "status": "active"
+  },
+  {
+    "id": "1896928",
+    "associationId": "PAL",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "Palestine, British Mandate (historical)",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/PAL",
+    "gender": "male",
+    "slug": "palestine,-british-mandate",
+    "status": "inactive"
+  },
+  {
+    "id": "43914",
+    "associationId": "PAN",
+    "confederation": {
+      "id": "CONCACAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CONCACAF",
+      "name": "CONCACAF"
+    },
+    "name": "Panama",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/PAN",
+    "gender": "male",
+    "slug": "panama",
+    "status": "active"
+  },
+  {
+    "id": "43979",
+    "associationId": "PNG",
+    "confederation": {
+      "id": "OFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/OFC",
+      "name": "OFC"
+    },
+    "name": "Papua New Guinea",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/PNG",
+    "gender": "male",
+    "slug": "papua-new-guinea",
+    "status": "active"
+  },
+  {
+    "id": "43928",
+    "associationId": "PAR",
+    "confederation": {
+      "id": "CONMEBOL",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CONMEBOL",
+      "name": "CONMEBOL"
+    },
+    "name": "Paraguay",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/PAR",
+    "gender": "male",
+    "slug": "paraguay",
+    "status": "active"
+  },
+  {
+    "id": "43929",
+    "associationId": "PER",
+    "confederation": {
+      "id": "CONMEBOL",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CONMEBOL",
+      "name": "CONMEBOL"
+    },
+    "name": "Peru",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/PER",
+    "gender": "male",
+    "slug": "peru",
+    "status": "active"
+  },
+  {
+    "id": "43833",
+    "associationId": "PHI",
+    "confederation": {
+      "id": "AFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/AFC",
+      "name": "AFC"
+    },
+    "name": "Philippines",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/PHI",
+    "gender": "male",
+    "slug": "philippines",
+    "status": "active"
+  },
+  {
+    "id": "43962",
+    "associationId": "POL",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "Poland",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/POL",
+    "gender": "male",
+    "slug": "poland",
+    "status": "active"
+  },
+  {
+    "id": "43963",
+    "associationId": "POR",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "Portugal",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/POR",
+    "gender": "male",
+    "slug": "portugal",
+    "status": "active"
+  },
+  {
+    "id": "43915",
+    "associationId": "PUR",
+    "confederation": {
+      "id": "CONCACAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CONCACAF",
+      "name": "CONCACAF"
+    },
+    "name": "Puerto Rico",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/PUR",
+    "gender": "male",
+    "slug": "puerto-rico",
+    "status": "active"
+  },
+  {
+    "id": "43834",
+    "associationId": "QAT",
+    "confederation": {
+      "id": "AFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/AFC",
+      "name": "AFC"
+    },
+    "name": "Qatar",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/QAT",
+    "gender": "male",
+    "slug": "qatar",
+    "status": "active"
+  },
+  {
+    "id": "43953",
+    "associationId": "IRL",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "Republic of Ireland",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/IRL",
+    "gender": "male",
+    "slug": "republic-of-ireland",
+    "status": "active"
+  },
+  {
+    "id": "43964",
+    "associationId": "ROU",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "Romania",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/ROU",
+    "gender": "male",
+    "slug": "romania",
+    "status": "active"
+  },
+  {
+    "id": "43965",
+    "associationId": "RUS",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "Russia",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/RUS",
+    "gender": "male",
+    "slug": "russia",
+    "status": "active"
+  },
+  {
+    "id": "43877",
+    "associationId": "RWA",
+    "confederation": {
+      "id": "CAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CAF",
+      "name": "CAF"
+    },
+    "name": "Rwanda",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/RWA",
+    "gender": "male",
+    "slug": "rwanda",
+    "status": "active"
+  },
+  {
+    "id": "44033",
+    "associationId": "SAA",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "Saar (historical)",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/SAA",
+    "gender": "male",
+    "slug": "saar",
+    "status": "inactive"
+  },
+  {
+    "id": "1882637",
+    "associationId": "SAM",
+    "confederation": {
+      "id": "OFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/OFC",
+      "name": "OFC"
+    },
+    "name": "Samoa",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/SAM",
+    "gender": "male",
+    "slug": "samoa",
+    "status": "active"
+  },
+  {
+    "id": "43966",
+    "associationId": "SMR",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "San Marino",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/SMR",
+    "gender": "male",
+    "slug": "san-marino",
+    "status": "active"
+  },
+  {
+    "id": "43878",
+    "associationId": "STP",
+    "confederation": {
+      "id": "CAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CAF",
+      "name": "CAF"
+    },
+    "name": "São Tomé and Príncipe",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/STP",
+    "gender": "male",
+    "slug": "são-tomé-and-príncipe",
+    "status": "active"
+  },
+  {
+    "id": "43835",
+    "associationId": "KSA",
+    "confederation": {
+      "id": "AFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/AFC",
+      "name": "AFC"
+    },
+    "name": "Saudi Arabia",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/KSA",
+    "gender": "male",
+    "slug": "saudi-arabia",
+    "status": "active"
+  },
+  {
+    "id": "43967",
+    "associationId": "SCO",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "Scotland",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/SCO",
+    "gender": "male",
+    "slug": "scotland",
+    "status": "active"
+  },
+  {
+    "id": "43879",
+    "associationId": "SEN",
+    "confederation": {
+      "id": "CAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CAF",
+      "name": "CAF"
+    },
+    "name": "Senegal",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/SEN",
+    "gender": "male",
+    "slug": "senegal",
+    "status": "active"
+  },
+  {
+    "id": "1902465",
+    "associationId": "SRB",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "Serbia",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/SRB",
+    "gender": "male",
+    "slug": "serbia",
+    "status": "active"
+  },
+  {
+    "id": "43880",
+    "associationId": "SEY",
+    "confederation": {
+      "id": "CAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CAF",
+      "name": "CAF"
+    },
+    "name": "Seychelles",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/SEY",
+    "gender": "male",
+    "slug": "seychelles",
+    "status": "active"
+  },
+  {
+    "id": "43881",
+    "associationId": "SLE",
+    "confederation": {
+      "id": "CAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CAF",
+      "name": "CAF"
+    },
+    "name": "Sierra Leone",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/SLE",
+    "gender": "male",
+    "slug": "sierra-leone",
+    "status": "active"
+  },
+  {
+    "id": "43836",
+    "associationId": "SGP",
+    "confederation": {
+      "id": "AFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/AFC",
+      "name": "AFC"
+    },
+    "name": "Singapore",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/SGP",
+    "gender": "male",
+    "slug": "singapore",
+    "status": "active"
+  },
+  {
+    "id": "44002",
+    "associationId": "SVK",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "Slovakia",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/SVK",
+    "gender": "male",
+    "slug": "slovakia",
+    "status": "active"
+  },
+  {
+    "id": "43968",
+    "associationId": "SVN",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "Slovenia",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/SVN",
+    "gender": "male",
+    "slug": "slovenia",
+    "status": "active"
+  },
+  {
+    "id": "43980",
+    "associationId": "SOL",
+    "confederation": {
+      "id": "OFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/OFC",
+      "name": "OFC"
+    },
+    "name": "Solomon Islands",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/SOL",
+    "gender": "male",
+    "slug": "solomon-islands",
+    "status": "active"
+  },
+  {
+    "id": "43882",
+    "associationId": "SOM",
+    "confederation": {
+      "id": "CAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CAF",
+      "name": "CAF"
+    },
+    "name": "Somalia",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/SOM",
+    "gender": "male",
+    "slug": "somalia",
+    "status": "active"
+  },
+  {
+    "id": "43883",
+    "associationId": "RSA",
+    "confederation": {
+      "id": "CAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CAF",
+      "name": "CAF"
+    },
+    "name": "South Africa",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/RSA",
+    "gender": "male",
+    "slug": "south-africa",
+    "status": "active"
+  },
+  {
+    "id": "1935341",
+    "associationId": "SSD",
+    "confederation": {
+      "id": "CAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CAF",
+      "name": "CAF"
+    },
+    "name": "South Sudan",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/SSD",
+    "gender": "male",
+    "slug": "south-sudan",
+    "status": "active"
+  },
+  {
+    "id": "1895309",
+    "associationId": "SVM",
+    "confederation": {
+      "id": "AFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/AFC",
+      "name": "AFC"
+    },
+    "name": "South Vietnam (historical)",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/SVM",
+    "gender": "male",
+    "slug": "south-vietnam",
+    "status": "inactive"
+  },
+  {
+    "id": "43969",
+    "associationId": "ESP",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "Spain",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/ESP",
+    "gender": "male",
+    "slug": "spain",
+    "status": "active"
+  },
+  {
+    "id": "43837",
+    "associationId": "SRI",
+    "confederation": {
+      "id": "AFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/AFC",
+      "name": "AFC"
+    },
+    "name": "Sri Lanka",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/SRI",
+    "gender": "male",
+    "slug": "sri-lanka",
+    "status": "active"
+  },
+  {
+    "id": "43916",
+    "associationId": "SKN",
+    "confederation": {
+      "id": "CONCACAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CONCACAF",
+      "name": "CONCACAF"
+    },
+    "name": "St. Kitts and Nevis",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/SKN",
+    "gender": "male",
+    "slug": "st.-kitts-and-nevis",
+    "status": "active"
+  },
+  {
+    "id": "43917",
+    "associationId": "LCA",
+    "confederation": {
+      "id": "CONCACAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CONCACAF",
+      "name": "CONCACAF"
+    },
+    "name": "St. Lucia",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/LCA",
+    "gender": "male",
+    "slug": "st.-lucia",
+    "status": "active"
+  },
+  {
+    "id": "43918",
+    "associationId": "VIN",
+    "confederation": {
+      "id": "CONCACAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CONCACAF",
+      "name": "CONCACAF"
+    },
+    "name": "St. Vincent / Grenadines",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/VIN",
+    "gender": "male",
+    "slug": "st.-vincent-/-grenadines",
+    "status": "active"
+  },
+  {
+    "id": "43884",
+    "associationId": "SDN",
+    "confederation": {
+      "id": "CAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CAF",
+      "name": "CAF"
+    },
+    "name": "Sudan",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/SDN",
+    "gender": "male",
+    "slug": "sudan",
+    "status": "active"
+  },
+  {
+    "id": "43919",
+    "associationId": "SUR",
+    "confederation": {
+      "id": "CONCACAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CONCACAF",
+      "name": "CONCACAF"
+    },
+    "name": "Suriname",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/SUR",
+    "gender": "male",
+    "slug": "suriname",
+    "status": "active"
+  },
+  {
+    "id": "43970",
+    "associationId": "SWE",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "Sweden",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/SWE",
+    "gender": "male",
+    "slug": "sweden",
+    "status": "active"
+  },
+  {
+    "id": "43971",
+    "associationId": "SUI",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "Switzerland",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/SUI",
+    "gender": "male",
+    "slug": "switzerland",
+    "status": "active"
+  },
+  {
+    "id": "43838",
+    "associationId": "SYR",
+    "confederation": {
+      "id": "AFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/AFC",
+      "name": "AFC"
+    },
+    "name": "Syria",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/SYR",
+    "gender": "male",
+    "slug": "syria",
+    "status": "active"
+  },
+  {
+    "id": "43981",
+    "associationId": "TAH",
+    "confederation": {
+      "id": "OFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/OFC",
+      "name": "OFC"
+    },
+    "name": "Tahiti",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/TAH",
+    "gender": "male",
+    "slug": "tahiti",
+    "status": "active"
+  },
+  {
+    "id": "44003",
+    "associationId": "TJK",
+    "confederation": {
+      "id": "AFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/AFC",
+      "name": "AFC"
+    },
+    "name": "Tajikistan",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/TJK",
+    "gender": "male",
+    "slug": "tajikistan",
+    "status": "active"
+  },
+  {
+    "id": "43886",
+    "associationId": "TAN",
+    "confederation": {
+      "id": "CAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CAF",
+      "name": "CAF"
+    },
+    "name": "Tanzania",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/TAN",
+    "gender": "male",
+    "slug": "tanzania",
+    "status": "active"
+  },
+  {
+    "id": "43839",
+    "associationId": "THA",
+    "confederation": {
+      "id": "AFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/AFC",
+      "name": "AFC"
+    },
+    "name": "Thailand",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/THA",
+    "gender": "male",
+    "slug": "thailand",
+    "status": "active"
+  },
+  {
+    "id": "43859",
+    "associationId": "GAM",
+    "confederation": {
+      "id": "CAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CAF",
+      "name": "CAF"
+    },
+    "name": "The Gambia",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/GAM",
+    "gender": "male",
+    "slug": "the-gambia",
+    "status": "active"
+  },
+  {
+    "id": "1890334",
+    "associationId": "TLS",
+    "confederation": {
+      "id": "AFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/AFC",
+      "name": "AFC"
+    },
+    "name": "Timor-Leste",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/TLS",
+    "gender": "male",
+    "slug": "timor-leste",
+    "status": "active"
+  },
+  {
+    "id": "43887",
+    "associationId": "TOG",
+    "confederation": {
+      "id": "CAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CAF",
+      "name": "CAF"
+    },
+    "name": "Togo",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/TOG",
+    "gender": "male",
+    "slug": "togo",
+    "status": "active"
+  },
+  {
+    "id": "44039",
+    "associationId": "TGA",
+    "confederation": {
+      "id": "OFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/OFC",
+      "name": "OFC"
+    },
+    "name": "Tonga",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/TGA",
+    "gender": "male",
+    "slug": "tonga",
+    "status": "active"
+  },
+  {
+    "id": "43920",
+    "associationId": "TRI",
+    "confederation": {
+      "id": "CONCACAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CONCACAF",
+      "name": "CONCACAF"
+    },
+    "name": "Trinidad and Tobago",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/TRI",
+    "gender": "male",
+    "slug": "trinidad-and-tobago",
+    "status": "active"
+  },
+  {
+    "id": "43888",
+    "associationId": "TUN",
+    "confederation": {
+      "id": "CAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CAF",
+      "name": "CAF"
+    },
+    "name": "Tunisia",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/TUN",
+    "gender": "male",
+    "slug": "tunisia",
+    "status": "active"
+  },
+  {
+    "id": "43972",
+    "associationId": "TUR",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "Türkiye",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/TUR",
+    "gender": "male",
+    "slug": "türkiye",
+    "status": "active"
+  },
+  {
+    "id": "44004",
+    "associationId": "TKM",
+    "confederation": {
+      "id": "AFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/AFC",
+      "name": "AFC"
+    },
+    "name": "Turkmenistan",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/TKM",
+    "gender": "male",
+    "slug": "turkmenistan",
+    "status": "active"
+  },
+  {
+    "id": "20011",
+    "associationId": "TCA",
+    "confederation": {
+      "id": "CONCACAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CONCACAF",
+      "name": "CONCACAF"
+    },
+    "name": "Turks and Caicos Islands",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/TCA",
+    "gender": "male",
+    "slug": "turks-and-caicos-islands",
+    "status": "active"
+  },
+  {
+    "id": "43889",
+    "associationId": "UGA",
+    "confederation": {
+      "id": "CAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CAF",
+      "name": "CAF"
+    },
+    "name": "Uganda",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/UGA",
+    "gender": "male",
+    "slug": "uganda",
+    "status": "active"
+  },
+  {
+    "id": "43973",
+    "associationId": "UKR",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "Ukraine",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/UKR",
+    "gender": "male",
+    "slug": "ukraine",
+    "status": "active"
+  },
+  {
+    "id": "43840",
+    "associationId": "UAE",
+    "confederation": {
+      "id": "AFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/AFC",
+      "name": "AFC"
+    },
+    "name": "United Arab Emirates",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/UAE",
+    "gender": "male",
+    "slug": "united-arab-emirates",
+    "status": "active"
+  },
+  {
+    "id": "43930",
+    "associationId": "URU",
+    "confederation": {
+      "id": "CONMEBOL",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CONMEBOL",
+      "name": "CONMEBOL"
+    },
+    "name": "Uruguay",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/URU",
+    "gender": "male",
+    "slug": "uruguay",
+    "status": "active"
+  },
+  {
+    "id": "1881967",
+    "associationId": "VIR",
+    "confederation": {
+      "id": "CONCACAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CONCACAF",
+      "name": "CONCACAF"
+    },
+    "name": "US Virgin Islands",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/VIR",
+    "gender": "male",
+    "slug": "us-virgin-islands",
+    "status": "active"
+  },
+  {
+    "id": "43921",
+    "associationId": "USA",
+    "confederation": {
+      "id": "CONCACAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CONCACAF",
+      "name": "CONCACAF"
+    },
+    "name": "USA",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/USA",
+    "gender": "male",
+    "slug": "usa",
+    "status": "active"
+  },
+  {
+    "id": "44005",
+    "associationId": "UZB",
+    "confederation": {
+      "id": "AFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/AFC",
+      "name": "AFC"
+    },
+    "name": "Uzbekistan",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/UZB",
+    "gender": "male",
+    "slug": "uzbekistan",
+    "status": "active"
+  },
+  {
+    "id": "43982",
+    "associationId": "VAN",
+    "confederation": {
+      "id": "OFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/OFC",
+      "name": "OFC"
+    },
+    "name": "Vanuatu",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/VAN",
+    "gender": "male",
+    "slug": "vanuatu",
+    "status": "active"
+  },
+  {
+    "id": "43931",
+    "associationId": "VEN",
+    "confederation": {
+      "id": "CONMEBOL",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CONMEBOL",
+      "name": "CONMEBOL"
+    },
+    "name": "Venezuela",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/VEN",
+    "gender": "male",
+    "slug": "venezuela",
+    "status": "active"
+  },
+  {
+    "id": "43841",
+    "associationId": "VIE",
+    "confederation": {
+      "id": "AFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/AFC",
+      "name": "AFC"
+    },
+    "name": "Vietnam",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/VIE",
+    "gender": "male",
+    "slug": "vietnam",
+    "status": "active"
+  },
+  {
+    "id": "43974",
+    "associationId": "WAL",
+    "confederation": {
+      "id": "UEFA",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/UEFA",
+      "name": "UEFA"
+    },
+    "name": "Wales",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/WAL",
+    "gender": "male",
+    "slug": "wales",
+    "status": "active"
+  },
+  {
+    "id": "43842",
+    "associationId": "YEM",
+    "confederation": {
+      "id": "AFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/AFC",
+      "name": "AFC"
+    },
+    "name": "Yemen",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/YEM",
+    "gender": "male",
+    "slug": "yemen",
+    "status": "active"
+  },
+  {
+    "id": "44029",
+    "associationId": "YMD",
+    "confederation": {
+      "id": "AFC",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/AFC",
+      "name": "AFC"
+    },
+    "name": "Yemen PDR (historical)",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/YMD",
+    "gender": "male",
+    "slug": "yemen-pdr",
+    "status": "inactive"
+  },
+  {
+    "id": "43891",
+    "associationId": "ZAM",
+    "confederation": {
+      "id": "CAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CAF",
+      "name": "CAF"
+    },
+    "name": "Zambia",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/ZAM",
+    "gender": "male",
+    "slug": "zambia",
+    "status": "active"
+  },
+  {
+    "id": "43892",
+    "associationId": "ZIM",
+    "confederation": {
+      "id": "CAF",
+      "url": "https://api.fifa.com/api/v3/picture/confederations-sq-2/CAF",
+      "name": "CAF"
+    },
+    "name": "Zimbabwe",
+    "flagUrl": "https://api.fifa.com/api/v3/picture/flags-sq-2/ZIM",
+    "gender": "male",
+    "slug": "zimbabwe",
+    "status": "active"
+  }
+]

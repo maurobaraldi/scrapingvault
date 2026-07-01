@@ -1,0 +1,22 @@
+[
+  {
+    "competitionClassificationCode": "F",
+    "name": "Friendly",
+    "matchesCount": 407
+  },
+  {
+    "competitionClassificationCode": "FWC_Q",
+    "name": "FIFA World Cup™ Qualifiers",
+    "matchesCount": 278
+  },
+  {
+    "competitionClassificationCode": "CQ",
+    "name": "Continental Qualifier",
+    "matchesCount": 144
+  },
+  {
+    "competitionClassificationCode": "CF",
+    "name": "Continental Final",
+    "matchesCount": 83
+  }
+]

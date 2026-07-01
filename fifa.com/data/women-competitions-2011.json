@@ -1,0 +1,22 @@
+[
+  {
+    "competitionClassificationCode": "FW",
+    "name": "Friendly Women",
+    "matchesCount": 286
+  },
+  {
+    "competitionClassificationCode": "CW_Q",
+    "name": "Womens Continental Qualifier",
+    "matchesCount": 92
+  },
+  {
+    "competitionClassificationCode": "WOFT_Q",
+    "name": "Olympic Football Tournament Women Qualifier",
+    "matchesCount": 91
+  },
+  {
+    "competitionClassificationCode": "FWWC",
+    "name": "FIFA Women's World Cup™",
+    "matchesCount": 32
+  }
+]

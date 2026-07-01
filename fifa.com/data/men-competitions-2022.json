@@ -1,0 +1,32 @@
+[
+  {
+    "competitionClassificationCode": "F",
+    "name": "Friendly",
+    "matchesCount": 445
+  },
+  {
+    "competitionClassificationCode": "NL",
+    "name": "Nations League",
+    "matchesCount": 207
+  },
+  {
+    "competitionClassificationCode": "FWC_Q",
+    "name": "FIFA World Cup™ Qualifiers",
+    "matchesCount": 100
+  },
+  {
+    "competitionClassificationCode": "CQ",
+    "name": "Continental Qualifier",
+    "matchesCount": 90
+  },
+  {
+    "competitionClassificationCode": "FWC",
+    "name": "FIFA World Cup™",
+    "matchesCount": 64
+  },
+  {
+    "competitionClassificationCode": "CF",
+    "name": "Continental Final",
+    "matchesCount": 52
+  }
+]

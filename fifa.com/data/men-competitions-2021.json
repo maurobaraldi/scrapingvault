@@ -1,0 +1,37 @@
+[
+  {
+    "competitionClassificationCode": "FWC_Q",
+    "name": "FIFA World Cup™ Qualifiers",
+    "matchesCount": 609
+  },
+  {
+    "competitionClassificationCode": "F",
+    "name": "Friendly",
+    "matchesCount": 305
+  },
+  {
+    "competitionClassificationCode": "CF",
+    "name": "Continental Final",
+    "matchesCount": 104
+  },
+  {
+    "competitionClassificationCode": "CQ",
+    "name": "Continental Qualifier",
+    "matchesCount": 57
+  },
+  {
+    "competitionClassificationCode": "FAC",
+    "name": "FIFA Arab Cup™ ",
+    "matchesCount": 32
+  },
+  {
+    "competitionClassificationCode": "NL",
+    "name": "Nations League",
+    "matchesCount": 8
+  },
+  {
+    "competitionClassificationCode": "FAC_Q",
+    "name": "FIFA Arab Cup™ Qualification",
+    "matchesCount": 7
+  }
+]
