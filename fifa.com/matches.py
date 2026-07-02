@@ -1,6 +1,6 @@
 from json import dumps, loads
 from time import sleep
-from utils import fetch_json, save_json, clean_continental_finals, save_dicts_to_csv
+from utils import fetch_json, save_json, clean_data, save_dicts_to_csv
 
 start, end = 2022, 2026
 men, women = 1, 2
@@ -13,21 +13,22 @@ headers = {
 if __name__ == "__main__":
     for year in range(start, end + 1):
         print(f"Working on year {year}")
-        with open(f"./data/competitions-by-year/fifa-men-competitions-{year}.json") as c:
-            competitions = loads(c.read())
-        
-        for competition in competitions:
-            for gender in (men, women):
+        for gender in (men, women):
+            'men' if gender == 1 else 'women'
+            _gender = 'men' if gender == 1 else 'women'
+            with open(f"./data/competitions-by-year/fifa-{_gender}-competitions-{year}.json") as c:
+                competitions = loads(c.read())
+            
+            for competition in competitions:
                 competition_code = competition.get("competitionClassificationCode")
                 name = competition.get("name").replace(" ", "-").replace("™", "").lower()
-                print(f" Working on competition {name} - {gender}")
+                print(f" Working on competition {name} - {_gender}")
                 matches = fetch_json(
                     f"https://inside.fifa.com/api/data-centre/matches?gender={gender}&competitionClassificationCode={competition_code}&year={year}&language=en&count={competition.get('matchesCount') + 1}",
                     verify_ssl=False
                 )
                 if matches:
                     _matches = []
-                    if competition_code == "CF":
-                        for match in matches:
-                            _matches.append(clean_continental_finals(match))
-                        save_dicts_to_csv(_matches, f"./data/fifa-{'men' if gender == 1 else 'women'}-{name}-{year}.csv")
+                    for match in matches:
+                        _matches.append(clean_data(match))
+                    save_dicts_to_csv(_matches, f"./data/fifa-{_gender}-{name}-{year}.csv")

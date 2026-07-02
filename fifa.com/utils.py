@@ -97,13 +97,24 @@ def save_dicts_to_csv(rows, output_file):
         writer.writerows(rows)
         
 
-def clean_continental_finals(data):
+def clean_data(data):
     """
     Extract and clean data from Continental Final.
 
     Returns:
         list: The matches data sinitized.
     """
+    if data.get("stageName") == []:
+        stage_name = ""
+    else:
+        stage_name = data.get("stageName", [{"description": ""}])[0].get("description"),
+
+    if data.get("stadiumName") == []:
+        stadium_name = ""
+    else:
+        stadium_name = data.get("stadiumName", [{"description": ""}])[0].get("description"),
+
+
     return {
         "id_match": data.get("idMatch", ""),
         "id_match_ifes": data.get("idMatchIfes", ""),
@@ -111,8 +122,7 @@ def clean_continental_finals(data):
         "id_season": data.get("idSeason", ""),
         "id_stage": data.get("idStage", ""),
         "competition_name": data.get("competitionName", [{"description": ""}])[0].get("description"),
-        "season_name": data.get("seasonName", [{"description": ""}])[0].get("description"),
-        "stage_name": data.get("stageName", [{"description": ""}])[0].get("description"),
+        "season_name": stage_name,
         "match_date": data.get("matchDate", ""),
         "team_A_id": data.get("teamAId", ""),
         "team_B_id": data.get("teamBId", ""),
@@ -126,6 +136,5 @@ def clean_continental_finals(data):
         "team_B_penalty_score": data.get("teamBPenaltyScore", ""),
         "result_type": data.get("resultType", ""),
         "winner": data.get("winner", ""),
-        "stadium_name": data.get("stadiumName", [{"description": ""}])[0].get("description"),
         "has_penalties": data.get("hasPenalties", ""),
     }

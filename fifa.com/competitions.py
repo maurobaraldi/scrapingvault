@@ -13,12 +13,12 @@ if __name__ == "__main__":
     for year in range(start, end + 1):
         sleep(1)
         fetch_json_to_file(
-            f"https://inside.fifa.com/api/data-centre/matches/competitions?gender={men}&year={year}&language=en",
-            f"./data/fifa-men-competitions-{year}.json",
+            f"https://inside.fifa.com/api/data-centre/matches/competitions?gender={men}&year={year}&language=en&count=1000",
+            f"./data/competitions-by-year/fifa-men-competitions-{year}.json",
             verify_ssl=False
         )
         fetch_json_to_file(
-            f"https://inside.fifa.com/api/data-centre/matches/competitions?gender={women}&year={year}&language=en",
-            f"./data/fifa-women-competitions-{year}.json",
+            f"https://inside.fifa.com/api/data-centre/matches/competitions?gender={women}&year={year}&language=en&count=1000",
+            f"./data/competitions-by-year/fifa-women-competitions-{year}.json",
             verify_ssl=False
         )
