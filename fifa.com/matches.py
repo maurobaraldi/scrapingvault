@@ -24,7 +24,7 @@ if __name__ == "__main__":
                 name = competition.get("name").replace(" ", "-").replace("™", "").lower()
                 print(f" Working on competition {name} - {_gender}")
                 matches = fetch_json(
-                    f"https://inside.fifa.com/api/data-centre/matches?gender={gender}&competitionClassificationCode={competition_code}&year={year}&language=en&count={competition.get('matchesCount') + 1}",
+                    f"https://inside.fifa.com/api/data-centre/matches?gender={gender}&competitionClassificationCode={competition_code}&year={year}&language=en&count=100",
                     verify_ssl=False
                 )
                 if matches:
