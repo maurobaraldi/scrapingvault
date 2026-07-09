@@ -1,14 +1,8 @@
-from time import sleep
 from database import Database as DB
-from utils import fetch_json, timer, clean_data
+from utils import fetch_json, timer
 from zeroevents import unvailable_ids
 
 base_url = "https://inside.fifa.com/"
-
-headers = {
-    "Referer": f"{base_url}/data-centre/matches",
-    "Origin": base_url,
-}
 
 
 def normalize_event(match_id, event):

@@ -3,11 +3,6 @@ from utils import fetch_json, timer, clean_data
 
 base_url = "https://inside.fifa.com/"
 
-headers = {
-    "Referer": f"{base_url}/data-centre/matches",
-    "Origin": base_url,
-}
-
 
 if __name__ == "__main__":
     with DB("fifa.sqlite") as db:

@@ -6,10 +6,6 @@ start, end = 2002, 2026
 men, women = 1, 2
 base_url = "https://inside.fifa.com/"
 
-headers = {
-    "Referer": f"{base_url}/data-centre/matches",
-    "Origin": base_url,
-}
 
 if __name__ == "__main__":
     with DB("fifa.sqlite") as db:
@@ -23,11 +19,11 @@ if __name__ == "__main__":
         PRIMARY KEY (year, competitionClassificationCode)
         );
         """
-        rows = []
 
         db.execute(tournaments_str_sql)
 
         for year in range(start, end + 1):
+            rows = []
             with timer(f"Processing tournament of year: {year}"):
                 data_set = fetch_json(
                     f"{base_url}/api/data-centre/matches/competitions?gender={men}&year={year}&language=en&count=1000",

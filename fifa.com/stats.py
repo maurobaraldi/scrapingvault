@@ -7,10 +7,6 @@ from utils import fetch_json
 
 base_url = "https://inside.fifa.com/"
 
-headers = {
-    "Referer": f"{base_url}/data-centre/matches",
-    "Origin": base_url,
-}
 
 if __name__ == "__main__":
     with DB("fifa.sqlite") as db:
@@ -83,7 +79,7 @@ if __name__ == "__main__":
             team_ids = [k for k in stats if k != "-1"]
 
             if len(team_ids) != 2:
-                print(f"Unexpected team count for match {match_id}")
+                print(f"Unexpected team count for match {match['id_match_ifes']}")
                 continue
 
             home_team_id, away_team_id = team_ids
@@ -102,7 +98,6 @@ if __name__ == "__main__":
             """, rows)
 
             if stats.get("-1"):
-                continue
                 try:
                     match_rows = [
                         (match_id, name, value)
@@ -117,6 +112,6 @@ if __name__ == "__main__":
                     VALUES (?, ?, ?)
                 """, match_rows)
             else:
-                print(f"Stats of match for match {match.get('id_match_ifes')} not fount")
+                print(f"Stats of match for match {match.get('id_match_ifes')} not found.")
 
             db.conn.commit()

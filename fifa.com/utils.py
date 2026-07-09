@@ -88,20 +88,17 @@ def clean_data(data):
     if data.get("stageName") == []:
         stage_name = ""
     else:
-        stage_name = data.get("stageName", [{"description": ""}])[0].get("description")[0],
+        stage_name = data.get("stageName", [{"description": ""}])[0].get("description")[0]
 
     if data.get("stadiumName") == []:
         stadium_name = ""
     else:
-        stadium_name = data.get("stadiumName", [{"description": ""}])[0].get("description")[0],
+        stadium_name = data.get("stadiumName", [{"description": ""}])[0].get("description")[0]
 
     if data.get("competitionName") == []:
         competition_name = ""
     else:
-        competition_name = data.get("competitionName", [{"description": ""}])[0].get("description")[0],
-    
-    if isinstance(competition_name, tuple):
-        competition_name = competition_name[0]
+        competition_name = data.get("competitionName", [{"description": ""}])[0].get("description")[0]
 
     return {
         "id_match": data.get("idMatch", ""),
@@ -111,7 +108,7 @@ def clean_data(data):
         "id_stage": data.get("idStage", ""),
         "competition_name": competition_name,
         "season_name": data.get("seasonName",[{"description": ""}])[0].get("description"),
-        "stage_name": data.get("stagenName"),
+        "stage_name": stage_name
         "match_date": data.get("matchDate", ""),
         "team_A_id": data.get("teamAId", ""),
         "team_B_id": data.get("teamBId", ""),
