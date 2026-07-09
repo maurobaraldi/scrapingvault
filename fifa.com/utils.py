@@ -3,7 +3,8 @@ import json
 import urllib.request
 import urllib.error
 import ssl
-
+from contextlib import contextmanager
+from time import perf_counter
 
 DEFAULT_HEADERS = {
     "User-Agent": (
@@ -15,7 +16,12 @@ DEFAULT_HEADERS = {
 }
 
 
-def fetch_json(url, headers=None, verify_ssl=True):
+def fetch_json(
+    url,
+    headers=None,
+    verify_ssl=True,
+    ignore_status_codes=None,
+):
     """
     Fetch and return JSON from a URL.
 
@@ -23,9 +29,12 @@ def fetch_json(url, headers=None, verify_ssl=True):
         url (str): The JSON endpoint.
         headers (dict, optional): Additional HTTP headers.
         verify_ssl (bool): Whether to verify SSL certificates.
+        ignore_status_codes (Iterable[int], optional):
+            HTTP status codes to ignore. If encountered, the status
+            code and URL are printed and None is returned.
 
     Returns:
-        dict | list
+        dict | list | None
     """
     request_headers = DEFAULT_HEADERS.copy()
     if headers:
@@ -37,65 +46,37 @@ def fetch_json(url, headers=None, verify_ssl=True):
     if not verify_ssl:
         context = ssl._create_unverified_context()
 
+    ignored = set(ignore_status_codes or ())
+
     try:
         with urllib.request.urlopen(request, context=context) as response:
             return json.load(response)
 
     except urllib.error.HTTPError as e:
+        if e.code in ignored:
+            print(f"HTTP {e.code}: {url}")
+            return None
+        
+        # Debug purpose
+        if e.code == 502:
+            import pdb; pdb.set_trace()
+
         raise RuntimeError(
             f"HTTP Error {e.code}: {e.reason}\n"
             f"{e.read().decode('utf-8', errors='ignore')}"
-        )
+        ) from e
 
     except urllib.error.URLError as e:
-        raise RuntimeError(f"URL Error: {e.reason}")
+        raise RuntimeError(f"URL Error: {e.reason}") from e
 
-
-def save_json(data, output_file):
-    """
-    Save a Python object as JSON.
-    """
-    with open(output_file, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
-
-
-def fetch_json_to_file(url, output_file, headers=None, verify_ssl=True):
-    """
-    Fetch JSON from a URL and save it to a file.
-
-    Returns:
-        dict | list: The downloaded JSON.
-    """
-    data = fetch_json(url, headers=headers, verify_ssl=verify_ssl)
-    save_json(data, output_file)
-    return data
-
-
-def save_dicts_to_csv(rows, output_file):
-    """
-    Save a list of dictionaries to a CSV file.
-
-    Args:
-        rows (list[dict]): List of flat dictionaries.
-        output_file (str): Path to the output CSV file.
-    """
-    if not rows:
-        raise ValueError("rows cannot be empty")
-
-    # Collect all keys while preserving order of first appearance.
-    fieldnames = []
-    seen = set()
-    for row in rows:
-        for key in row:
-            if key not in seen:
-                seen.add(key)
-                fieldnames.append(key)
-
-    with open(output_file, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames, extrasaction="ignore")
-        writer.writeheader()
-        writer.writerows(rows)
-        
+@contextmanager
+def timer(name: str = "Elapsed"):
+    start = perf_counter()
+    try:
+        yield
+    finally:
+        elapsed = perf_counter() - start
+        print(f"{name}: {elapsed:.3f}s")
 
 def clean_data(data):
     """
@@ -107,13 +88,20 @@ def clean_data(data):
     if data.get("stageName") == []:
         stage_name = ""
     else:
-        stage_name = data.get("stageName", [{"description": ""}])[0].get("description"),
+        stage_name = data.get("stageName", [{"description": ""}])[0].get("description")[0],
 
     if data.get("stadiumName") == []:
         stadium_name = ""
     else:
-        stadium_name = data.get("stadiumName", [{"description": ""}])[0].get("description"),
+        stadium_name = data.get("stadiumName", [{"description": ""}])[0].get("description")[0],
 
+    if data.get("competitionName") == []:
+        competition_name = ""
+    else:
+        competition_name = data.get("competitionName", [{"description": ""}])[0].get("description")[0],
+    
+    if isinstance(competition_name, tuple):
+        competition_name = competition_name[0]
 
     return {
         "id_match": data.get("idMatch", ""),
@@ -121,8 +109,9 @@ def clean_data(data):
         "id_competition": data.get("idCompetition", ""),
         "id_season": data.get("idSeason", ""),
         "id_stage": data.get("idStage", ""),
-        "competition_name": data.get("competitionName", [{"description": ""}])[0].get("description"),
-        "season_name": stage_name,
+        "competition_name": competition_name,
+        "season_name": data.get("seasonName",[{"description": ""}])[0].get("description"),
+        "stage_name": data.get("stagenName"),
         "match_date": data.get("matchDate", ""),
         "team_A_id": data.get("teamAId", ""),
         "team_B_id": data.get("teamBId", ""),
