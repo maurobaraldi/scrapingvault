@@ -97,6 +97,13 @@ class Database:
         ]
 
         self.cursor.executemany(sql, values)
+        return self.cursor.rowcount
 
     def execute(self, sql, params=()):
         return self.cursor.execute(sql, params)
+    
+    def executescript(self, script):
+        return self.conn.executescript(script)
+    
+    def executemany(self, sql, values):
+        return self.cursor.executemany(sql, values)
